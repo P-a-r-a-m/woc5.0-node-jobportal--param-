@@ -1,0 +1,1 @@
+Django Disaster management system
